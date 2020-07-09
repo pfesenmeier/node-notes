@@ -1,0 +1,3 @@
+# Typescript
+
+[[basic types]
