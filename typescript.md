@@ -1,3 +1,4 @@
 # Typescript
 
-[[basic types]
+[[basic types]]
+[[variable declaration]]
